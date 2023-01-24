@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nithishkumar
 - 👀 I’m interested in Web development
 - 🌱 I’m currently working on Node.js, DSA and Web Development.
-- 💞️ I’m looking to collaborate on OpenSource projects in web developement.
+- 💞️ I’m looking to collaborate on OpenSource projects in web development.
 - 📫 Reach me out to know more about me <a href="https://nithishkumar-cloud.github.io/Portfolio/" >Click Here</a>
 - Ready to clear all your stuffs Have a Chat <a href="https://www.linkedin.com/in/nithish-kumar-95a51020b">Click Here</a>
 - Mail me  <a href="mailto:krnithishkumar14@gmail.com">krnithishkumar14@gmail.com</a>To reach out..
